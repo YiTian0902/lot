@@ -1,6 +1,6 @@
 # HUMAN FACE RECOGNITION WITH CLOUD PLATFORM
 ## GOAL
-    The goal of the project is to realize face recognition and upload the recognition results to google sheets
+The goal of the project is to realize face recognition and upload the recognition results to google sheets
 ## REQUIRMENT
     To run all of these project, you should use python3 with packages openCV and face_recognition
 ## STRUCTURE
